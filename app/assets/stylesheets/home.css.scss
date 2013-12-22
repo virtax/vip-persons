@@ -1,0 +1,43 @@
+ul {
+  min-height: 20px;  
+  background: white;
+  border: solid 1px black;
+  list-style-type: none;
+  cursor: pointer;
+  padding: 5px;
+  width: 200px;
+  &:empty:after { 
+    content:  attr(placeholder);
+    color: grey;
+  }  
+  li:hover {
+    background: #ddd;
+  }
+}
+
+.col1 { float: left; width: 400px}
+.col2 { float: left; width: 100px}
+
+.vip {
+  margin-left: 20px;
+}
+
+#persons{
+  height: 170px;
+  width: 160px;
+  overflow-y: scroll;   
+}
+
+#others {
+  height: 120px;
+  width: 320px;
+  &:empty:after {
+    line-height: 120px;
+    margin-left: 35%;
+  }  
+
+  li {
+    display: inline-block;
+    padding: 15px;
+  }    
+}

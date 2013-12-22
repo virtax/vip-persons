@@ -1,0 +1,1220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"we",
+				"where"
+			],
+			[
+				"fk",
+				"foreign_keys"
+			],
+			[
+				"par",
+				"partition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/assets/stylesheets/home.css.scss",
+			"settings":
+			{
+				"buffer_size": 618,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 547,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/index.html.haml",
+			"settings":
+			{
+				"buffer_size": 850,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 665,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/home.js.coffee",
+			"settings":
+			{
+				"buffer_size": 678,
+				"line_ending": "Unix",
+				"name": "$ ->"
+			}
+		}
+	],
+	"build_system": "Packages/User/zeus_test_spec.sublime-build",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ck",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal Key Bindings – Default"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 520.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/virtax/work/ruby/vip-persons/tmp/cache/assets/development/sass/7558ef1696329d7522461cf77b9cd20db07ebe7d/home.css.scssc",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/_schedule_item.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/_schedule.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/period.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/schedule.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/channel_blocking.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/controllers/home_controller.rb",
+		"/home/virtax/.bashrc",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/controllers/application_controller.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/environments/development.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/spec_helper.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/assets/stylesheets/pages.css.scss",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/assets/stylesheets/screen.css.scss",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/assets/javascripts/application.js",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/mini_record.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/user.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/country.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/db/seeds.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/environments/test.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/database.yml",
+		"/home/virtax/work/ruby/mivo/mivo-web/Gemfile.lock",
+		"/home/virtax/work/ruby/mivo/mivo-web/Gemfile",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/channel_blocking_item.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/features/notification_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/layouts/application.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/channel.rb",
+		"/home/virtax/work/ruby/mivo/channel_blocking2.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/rails_admin.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/assets/stylesheets/mivo-wall.css.scss",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/layouts/_header.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/features/homepage_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/features/player_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/layouts/_head.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/assets/javascripts/home_player.js",
+		"/home/virtax/work/ruby/mivo/mivo-web/skin_test_page.html",
+		"/home/virtax/work/ruby/mivo/mivo-web/public/mivo1.xml",
+		"/home/virtax/work/ruby/mivo/mivo-web/tmp/cache/sass/81e170de5cec8cdaa4b471aef4f94ca1a5550c6a/screen.css.scssc",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/rufus_scheduler.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/readme.txt",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/requests/api_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/models/schedule_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/models/notification_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/models/channel_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/features/contact_message_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/features/signup_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/time_zone.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/index.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/_player.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/embed.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/assets/javascripts/embed.js",
+		"/home/virtax/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/settings.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/environment.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/routes.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/api_key.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/factories.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/controllers/api_controller.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/lib/exceptions.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/controllers/api_controller_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/requiests/api/v1/channels_spec.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/spec/features/api_spec.rb",
+		"/home/virtax/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/virtax/.config/sublime-text-3/Packages/User/Ruby.sublime-settings",
+		"/home/virtax/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/pages/pusher_test.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/pusher.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/notification.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/tmp/cache/10F/C41/http%3A%2F%2Flocalhost%3A3000%2Fassets%2Fic_32px.png%3F",
+		"/home/virtax/work/ruby/mivo/mivo-web/tmp/cache/FB3/7B0/http%3A%2F%2Flocalhost%2Fassets%2Fic_32px.png%3F",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/_small_video_bottom.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/_small_video_search.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/notifier.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/home/_small_video_right.html.haml",
+		"/home/virtax/work/js/derby/ap1/lib/app/index.js",
+		"/home/virtax/Documents/Private/iOcean.txt",
+		"/home/virtax/Documents/Private/alibaba.com2.txt",
+		"/usr/share/applications/sublime-handler.desktop",
+		"/home/virtax/.bash_profile",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/categories/index.html.haml",
+		"/home/virtax/Documents/Private/alibaba.com",
+		"/home/virtax/work/ruby/mivo/mivo-web/.ebextensions/notifier.config",
+		"/home/virtax/work/ruby/mivo/mivo-web/lib/tasks/notifier.rake",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/show_program.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/devise/sessions/_form.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/rufus-scheduler.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/assets/stylesheets/sign-pages.css.scss",
+		"/home/virtax/Documents/Private/kickstarter.com",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/recaptcha.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/comments/create.js.erb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/comments/_form.html.haml",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/locales/id/id.yml",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/locales/en.yml",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/locales/en/en.yml",
+		"/home/virtax/work/ruby/mivo/mivo-web/config/initializers/fog.rb",
+		"/home/virtax/.local/share/applications/smartgit.desktop",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/views/playlists/get_likes_playlist.js.erb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/channel_customization.rb",
+		"/home/virtax/Documents/Мебель.txt",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/customization.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/models/user_info.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/uploaders/channel_image_uploader.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/app/uploaders/channel_background_uploader.rb",
+		"/home/virtax/Documents/Private/alla.mail.txt",
+		"/home/virtax/.elasticbeanstalk/aws_credential_file",
+		"/home/virtax/.ssh/config",
+		"/tmp/.fr-lBmK8a/db/backup/show_programs.yml",
+		"/tmp/.fr-93E1lK/db/backup/schedules.yml",
+		"/tmp/.fr-rZOWHR/db/backup/time_zones.yml",
+		"/media/PENDRIVE/README.diskdefines",
+		"/tmp/.fr-kLXfPN/db/backup/show_notifications.yml",
+		"/tmp/.fr-gs73hC/db/backup/roles_users.yml",
+		"/tmp/.fr-MAk1fP/db/backup/users.yml",
+		"/tmp/.fr-wLpIcF/db/backup/roles.yml",
+		"/tmp/.fr-oTVYVz/db/backup/playlists.yml",
+		"/tmp/.fr-T0ZNPN/db/backup/history_video_views.yml",
+		"/tmp/.fr-ZytEJ5/db/backup/history_video_views.yml",
+		"/tmp/.fr-cEvsC6/db/backup/channels.yml",
+		"/tmp/.fr-Ui6Ry0/db/backup/channels.yml",
+		"/tmp/.fr-smPBGo/db/backup/channels.yml",
+		"/tmp/.fr-Sowwmy/db/backup/channels.yml",
+		"/tmp/.fr-k853Z5/db/backup/subscriptions.yml",
+		"/home/virtax/work/ruby/mivo/mivo-web/channels.yml",
+		"/tmp/mc-virtax/vfsaOt5dcschedules.yml",
+		"/tmp/.fr-IMT9XM/db/schema.rb",
+		"/home/virtax/work/ruby/mivo/mivo-web/schema.rb",
+		"/tmp/mc-virtax/vfsqUqu0dschedules.yml",
+		"/home/virtax/work/ruby/mivo/docs/I think that old migrations is better.txt",
+		"/tmp/.fr-LCPTkK/config/database.yml"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/home/virtax/work/ruby/mivo/mivo-web/app",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/models",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/models",
+			"/home/virtax/work/ruby/mivo/mivo-web",
+			"/home/virtax/work/ruby/mivo/mivo-web/spec/features",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app",
+			"/home/virtax/work/ruby/mivo/",
+			"/home/virtax/work/ruby/mivo/mivo-web",
+			"/home/virtax/work/",
+			"/home/virtax/work/ruby/mivo/mivo-web",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/views",
+			"/home/virtax/work/ruby/mivo/mivo-web/app",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/views/home",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/views",
+			"/home/virtax/work/ruby/mivo/mivo-web/app",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets/javascripts",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets/javascripts",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets/javascripts",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/models",
+			"/home/virtax/work/ruby/mivo/mivo-web/db/migrate",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/models",
+			"/home/virtax/Загрузки/patspy",
+			"/home/virtax/work/ruby/mivo/mivo-web/db/migrate",
+			"/home/virtax/work/ruby/mivo/mivo-web",
+			"/home/virtax/work/ruby/mivo/mivo-web/db/migrate",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets/javascripts",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/views",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets/stylesheets",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets/stylesheets",
+			"/home/virtax/work/ruby/mivo/mivo-web/",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/views/home",
+			"/home/virtax/work/ruby/mivo/mivo-web",
+			"/home/virtax/work/ruby/mivo/mivo-web/app",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/views/devise",
+			"/home/virtax/work/ruby/mivo/mivo-web/app",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/assets/stylesheets",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/views",
+			"",
+			"/home/virtax/work/ruby/mivo/mivo-web/db",
+			"",
+			"/home/virtax/work/ruby/mivo/mivo-web/app/models",
+			"",
+			"/home/virtax/work/ruby/luxfix/db/migrate",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"slot1",
+			".join",
+			"date_add",
+			"add_",
+			"daily_start",
+			"schedule",
+			"build",
+			"index",
+			"index ",
+			"index",
+			":default => ",
+			"minite",
+			"test",
+			"mini",
+			"explain",
+			"show current notification",
+			"belongs_to",
+			" throw",
+			"attr_accessible",
+			"attr_",
+			"access",
+			"name",
+			"cascade",
+			"name",
+			"auto_upgrade_without_check",
+			"language-switcher",
+			"time_zone_off",
+			"setu",
+			"location",
+			"locale",
+			"locale=",
+			"click",
+			"element",
+			"skin",
+			"Capybara.server_por",
+			" has clickable link, test google analitics",
+			" can has clickable link, test google analitics",
+			"Test notification link message",
+			"close current notification, test google analitics",
+			"TimeZone",
+			"time",
+			"can has clickable link, test google analitics",
+			"console.log",
+			"Rails.env",
+			"console.log",
+			"clicked 2",
+			"can has clickable link",
+			"current_url",
+			"after 5",
+			"after 5 bad sign in attempts\nafter 5 bad sign in attempts\nafter 5",
+			"zoom +",
+			"poltergeist",
+			"right_banner",
+			"customization",
+			"cuso",
+			"a2_p",
+			"period",
+			"embed_midroll_free_period",
+			"strftime",
+			"enable_embed_midroll_free_ads",
+			"tab",
+			"enable_embed_free_html",
+			"midroll",
+			"mid_roll",
+			"enable_homepage_mid_roll_ads",
+			"country",
+			"notes",
+			"footno",
+			"feati",
+			"  rescue_from ActiveRecord::RecordNotFound do |exception|\n",
+			"RenderTextError",
+			"return_error",
+			"space",
+			"api",
+			"json",
+			"md5",
+			"initial",
+			"Favicon",
+			"\"",
+			"Pusher",
+			"Notification",
+			"Notification.last ",
+			"java",
+			"scrip",
+			"java",
+			"find",
+			"recaptcha_widget_div",
+			"Prove that you are not a robot",
+			"go_back",
+			"channel from the menu, send click event to google analitics",
+			"robot11",
+			"sign-in-form",
+			".sign-in-form",
+			"input",
+			".sign-or",
+			"-fb",
+			"login-via-fb",
+			".sign-in-form ",
+			"recaptcha",
+			"recapcha",
+			"recaptcha",
+			"recaptcha_tags",
+			"Prove that you are not a robot",
+			"jwplayer.key",
+			"DNGtbi8o05auRerpCiGSVxXwwas8UyDVe9RiVrqulsnhMDSzaWTPNQ==",
+			"fog",
+			"excon",
+			"embed",
+			"ssl_ca",
+			"ssl",
+			"user_info",
+			"customization",
+			"info",
+			"user_in",
+			"create_defaults",
+			"background",
+			"embed",
+			"user_in",
+			"background_options",
+			"create_defaults",
+			"image",
+			"ChannelImageUploader",
+			"image",
+			"created_at",
+			"created",
+			"valid",
+			"google",
+			"gaq"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"img",
+			"midroll",
+			"'",
+			"end_time",
+			"start_time",
+			"remove_foreign_keys",
+			"Test",
+			"=",
+			" u.",
+			"'",
+			"Incident",
+			"Expense",
+			"Vendor",
+			"Unit",
+			"field",
+			",",
+			";",
+			"'",
+			"sublime"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/assets/stylesheets/home.css.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/stylesheets/application.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 547,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/home/index.html.haml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 850,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								549,
+								549
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 665,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								665,
+								665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 288.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/assets/javascripts/home.js.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 678,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								104,
+								104
+							]
+						],
+						"settings":
+						{
+							"auto_name": "$ ->",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 80.0
+	},
+	"project": "vip-persons.sublime-project",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"hom",
+				"app/views/home/index.html.haml"
+			],
+			[
+				"app",
+				"mivo-web/app/controllers/application_controller.rb"
+			],
+			[
+				"sche",
+				"mivo-web/app/models/schedule.rb"
+			],
+			[
+				"_shc",
+				"mivo-web/app/views/home/_schedule.html.haml"
+			],
+			[
+				"sch",
+				"mivo-web/app/models/schedule.rb"
+			],
+			[
+				"home",
+				"mivo-web/app/controllers/home_controller.rb"
+			],
+			[
+				"gem",
+				"mivo-web/Gemfile"
+			],
+			[
+				"peri",
+				"mivo-web/app/models/period.rb"
+			],
+			[
+				"shce",
+				"mivo-web/app/models/schedule.rb"
+			],
+			[
+				"appli",
+				"mivo-web/app/controllers/application_controller.rb"
+			],
+			[
+				"gemf",
+				"mivo-web/Gemfile"
+			],
+			[
+				"data",
+				"mivo-web/config/database.yml"
+			],
+			[
+				"tes",
+				"mivo-web/config/environments/test.rb"
+			],
+			[
+				"count",
+				"mivo-web/app/models/country.rb"
+			],
+			[
+				"see",
+				"mivo-web/db/seeds.rb"
+			],
+			[
+				"rails",
+				"mivo-web/config/initializers/rails_admin.rb"
+			],
+			[
+				"seed",
+				"mivo-web/db/seeds.rb"
+			],
+			[
+				"_heade",
+				"mivo-web/app/views/layouts/_header.html.haml"
+			],
+			[
+				"chane",
+				"mivo-web/app/models/channel_blocking.rb"
+			],
+			[
+				"notifi",
+				"mivo-web/spec/features/notification_spec.rb"
+			],
+			[
+				"scree",
+				"mivo-web/app/assets/stylesheets/screen.css.scss"
+			],
+			[
+				"hea",
+				"mivo-web/app/views/layouts/_header.html.haml"
+			],
+			[
+				"_head",
+				"mivo-web/app/views/layouts/_head.html.haml"
+			],
+			[
+				"spec_he",
+				"mivo-web/spec/spec_helper.rb"
+			],
+			[
+				"notif",
+				"mivo-web/spec/features/notification_spec.rb"
+			],
+			[
+				"home_play",
+				"mivo-web/app/assets/javascripts/home_player.js"
+			],
+			[
+				"heade",
+				"mivo-web/app/views/layouts/_header.html.haml"
+			],
+			[
+				"applica",
+				"mivo-web/app/views/layouts/application.html.haml"
+			],
+			[
+				"cscc",
+				"mivo-web/tmp/cache/sass/81e170de5cec8cdaa4b471aef4f94ca1a5550c6a/screen.css.scssc"
+			],
+			[
+				"gemfi",
+				"mivo-web/Gemfile"
+			],
+			[
+				"time",
+				"mivo-web/app/models/time_zone.rb"
+			],
+			[
+				"rufus",
+				"mivo-web/config/initializers/rufus_scheduler.rb"
+			],
+			[
+				"read",
+				"mivo-web/readme.txt"
+			],
+			[
+				"noti",
+				"mivo-web/spec/features/notification_spec.rb"
+			],
+			[
+				"ru",
+				"mivo-web/config/initializers/rufus_scheduler.rb"
+			],
+			[
+				"play",
+				"mivo-web/spec/features/player_spec.rb"
+			],
+			[
+				"player_sp",
+				"mivo-web/spec/features/player_spec.rb"
+			],
+			[
+				"no",
+				"mivo-web/spec/features/notification_spec.rb"
+			],
+			[
+				"env",
+				"mivo-web/config/environment.rb"
+			],
+			[
+				"embed",
+				"mivo-web/app/assets/javascripts/embed.js"
+			],
+			[
+				"indexh",
+				"mivo-web/app/views/home/index.html.haml"
+			],
+			[
+				"home_pla",
+				"mivo-web/app/assets/javascripts/home_player.js"
+			],
+			[
+				"channe",
+				"mivo-web/app/models/channel.rb"
+			],
+			[
+				"applicat",
+				"mivo-web/app/controllers/application_controller.rb"
+			],
+			[
+				"gemfile",
+				"mivo-web/Gemfile"
+			],
+			[
+				"api",
+				"mivo-web/app/controllers/api_controller.rb"
+			],
+			[
+				"spec_hel",
+				"mivo-web/spec/spec_helper.rb"
+			],
+			[
+				"routes",
+				"mivo-web/config/routes.rb"
+			],
+			[
+				"sett",
+				"mivo-web/app/models/settings.rb"
+			],
+			[
+				"route",
+				"mivo-web/config/routes.rb"
+			],
+			[
+				"ic_32px",
+				"mivo-web/tmp/cache/10F/C41/http%3A%2F%2Flocalhost%3A3000%2Fassets%2Fic_32px.png%3F"
+			],
+			[
+				"home_playe",
+				"mivo-web/app/assets/javascripts/home_player.js"
+			],
+			[
+				"em",
+				"mivo-web/app/assets/javascripts/embed.js"
+			],
+			[
+				"notifie",
+				"mivo-web/config/initializers/notifier.rb"
+			],
+			[
+				"index",
+				"mivo-web/app/views/home/index.html.haml"
+			],
+			[
+				"sign",
+				"mivo-web/app/assets/stylesheets/sign-pages.css.scss"
+			],
+			[
+				"pusher",
+				"mivo-web/app/views/pages/pusher_test.haml"
+			],
+			[
+				"chann",
+				"mivo-web/app/models/channel.rb"
+			],
+			[
+				"gemfil",
+				"mivo-web/Gemfile"
+			],
+			[
+				"key",
+				"mivo-web/app/views/playlists/get_likes_playlist.js.erb"
+			],
+			[
+				"development",
+				"mivo-web/config/environments/development.rb"
+			],
+			[
+				"user",
+				"mivo-web/app/models/user.rb"
+			],
+			[
+				"roure",
+				"mivo-web/config/routes.rb"
+			],
+			[
+				"use",
+				"mivo-web/app/models/user.rb"
+			],
+			[
+				"se",
+				"mivo-web/db/seeds.rb"
+			],
+			[
+				"datab",
+				"mivo-web/config/database.yml"
+			],
+			[
+				"git",
+				"mivo-web/.gitignore"
+			],
+			[
+				"homeindex",
+				"mivo-web/app/views/home/index.html.haml"
+			],
+			[
+				"screen",
+				"mivo-web/app/assets/stylesheets/screen.css.scss"
+			],
+			[
+				"notifica",
+				"mivo-web/spec/models/notification_spec.rb"
+			],
+			[
+				"playjs",
+				"mivo-web/app/assets/javascripts/home_player.js"
+			],
+			[
+				"appjs",
+				"mivo-web/app/assets/javascripts/application.js"
+			],
+			[
+				"home_c",
+				"mivo-web/app/controllers/home_controller.rb"
+			],
+			[
+				"profile",
+				"mivo-web/app/controllers/profiles_controller.rb"
+			],
+			[
+				"apphaml",
+				"mivo-web/app/views/layouts/application.html.haml"
+			],
+			[
+				"homeha",
+				"mivo-web/app/views/home/index.html.haml"
+			],
+			[
+				"en",
+				"mivo-web/config/locales/en.yml"
+			],
+			[
+				"en.y",
+				"mivo-web/config/locales/en.yml"
+			],
+			[
+				"id",
+				"mivo-web/config/locales/id/id.yml"
+			],
+			[
+				"notification",
+				"mivo-web/app/views/profiles/close_notification.js.erb"
+			],
+			[
+				"otification",
+				"mivo-web/app/helpers/notifications_helper.rb"
+			],
+			[
+				"user.rb",
+				"mivo-web/app/models/user.rb"
+			],
+			[
+				"sched",
+				"mivo-web/app/models/schedule.rb"
+			],
+			[
+				"rails_admin",
+				"mivo-web/config/initializers/rails_admin.rb"
+			],
+			[
+				"app/controllers/application_controller.rb",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"applicatio",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"shedu",
+				"app/models/schedule.rb"
+			],
+			[
+				"homec",
+				"app/controllers/home_controller.rb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"devi",
+				"config/initializers/devise.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"newrelic",
+				"mivo-web/config/newrelic.yml"
+			],
+			[
+				"produc",
+				"mivo-web/config/environments/production.rb"
+			],
+			[
+				"/index.html.haml",
+				"mivo-web/app/views/home/index.html.haml"
+			],
+			[
+				"www",
+				"mivo-web/lib/www_adder.rb"
+			],
+			[
+				"produ",
+				"mivo-web/config/environments/production.rb"
+			],
+			[
+				"wwwa",
+				"mivo-web/lib/www_adder.rb"
+			],
+			[
+				"readme.txt",
+				"mivo-web/readme.txt"
+			],
+			[
+				"developme",
+				"mivo-web/config/environments/development.rb"
+			],
+			[
+				"devise.rb",
+				"rentboss/config/initializers/devise.rb"
+			],
+			[
+				"chat",
+				"mivo-web/app/models/chat_message.rb"
+			],
+			[
+				"shema",
+				"mivo-web/db/schema.rb"
+			],
+			[
+				"facto",
+				"mivo-web/spec/factories.rb"
+			],
+			[
+				"omni",
+				"mivo-web/config/initializers/omniauth.rb"
+			],
+			[
+				"face",
+				"mivo-web/config/initializers/facebook.rb"
+			],
+			[
+				"sign_up",
+				"mivo-web/app/views/devise/registrations/sign_up5.html.haml"
+			],
+			[
+				"vide",
+				"mivo-web/app/models/video.rb"
+			],
+			[
+				"playli",
+				"mivo-web/app/models/playlist_video.rb"
+			],
+			[
+				"registr",
+				"mivo-web/app/controllers/registrations_controller.rb"
+			],
+			[
+				"registra",
+				"app/controllers/registrations_controller.rb"
+			],
+			[
+				"fact",
+				"spec/factories.rb"
+			],
+			[
+				"profile_ed",
+				"app/assets/stylesheets/profile_edit.css.scss"
+			],
+			[
+				"base",
+				"app/assets/stylesheets/partials/_base.scss"
+			],
+			[
+				"carr",
+				"app/views/pages/carrier.html.haml"
+			],
+			[
+				"pages.c",
+				"app/assets/stylesheets/pages.css.scss"
+			],
+			[
+				"sign_up2",
+				"app/views/devise/registrations/sign_up2.html.haml"
+			],
+			[
+				"id.yml",
+				"config/locales/id/id.yml"
+			],
+			[
+				"sed",
+				"db/seeds.rb"
+			],
+			[
+				"ab",
+				"app/models/ability.rb"
+			],
+			[
+				"show",
+				"app/models/show_program.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"double",
+				"app/assets/javascripts/doubleclick-banners.js"
+			],
+			[
+				"foote",
+				"app/assets/stylesheets/footer.css.erb"
+			],
+			[
+				"footec",
+				"app/assets/stylesheets/footer.css.erb"
+			],
+			[
+				"appl",
+				"app/assets/stylesheets/application.css.less"
+			],
+			[
+				"inde",
+				"app/views/home/index.html.haml"
+			],
+			[
+				"exclusive",
+				"app/views/shop/exclusives/show.html.erb"
+			],
+			[
+				"shopping_bag",
+				"app/models/shopping_bag.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

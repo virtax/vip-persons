@@ -1,0 +1,23 @@
+!!!
+%html
+  %head
+    %link{href: "http://ajax.googleapis.com/ajax/libs/jqueryui/1/themes/smoothness/jquery-ui.min.css", rel: "stylesheet", type: "text/css"}/
+    %script{src: "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"}
+    %script{src: "http://ajax.googleapis.com/ajax/libs/jqueryui/1/jquery-ui.min.js"}
+    %meta{charset: "utf-8"}/
+    %title JS Bin
+  %body
+    .col1
+      %h4 Vip Persons
+      %ul#slot1.vip.connectedSortable{placeholder: "Slot 1"}
+      %ul#slot2.vip.connectedSortable{placeholder: "Slot 2"}
+      %ul#slot3.vip.connectedSortable{placeholder: "Slot 3"}
+      %ul#others.connectedSortable{placeholder: "others persons"}
+    .col2
+      %h4 List of Persons
+      %ul#persons.connectedSortable
+        %li Ivan Ivanov
+        %li Petr Petrov
+        %li John Smith
+        %li Brad Pit
+        %li Angelina Jolly
